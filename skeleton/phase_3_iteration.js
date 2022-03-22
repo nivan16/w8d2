@@ -19,6 +19,7 @@ Array.prototype.bubbleSort = function () {
 // const arr = [20, 16, 15, 8, 11];
 // console.log(arr.bubbleSort());
 
+ 
 String.prototype.substrings = function () {
     let ans = [];
 
@@ -30,5 +31,5 @@ String.prototype.substrings = function () {
     return ans;
 };
 
-let string = "Hello World!";
-console.log(string.substrings());
+// let string = "Hello World!";
+// console.log(string.substrings());
